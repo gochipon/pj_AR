@@ -1,0 +1,2615 @@
+{
+    "lens_id": "",
+    "document_id": "qj6K43s_xVqXdxcCM54X",
+    "original_document_id": "tt21pA430okwDFMVSOy2",
+    "version": "16",
+    "lastChanged": "1575350189098",
+    "preview": "",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Color Remap"
+                    ],
+                    [
+                        "Diffuse"
+                    ],
+                    [
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Animations"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_01"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_02"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_03"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_04"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_05"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_06"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_Cap"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_Top"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_Top 2"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Meshes",
+                        "Monolith_Top_Circle"
+                    ],
+                    [
+                        "Monolith_all",
+                        "Monolith_all"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Still_002a_BG01_AR"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "chara_root",
+                        "Animations"
+                    ],
+                    [
+                        "chara_root",
+                        "Animations",
+                        "Monolith_ray1 _ Pivot"
+                    ],
+                    [
+                        "chara_root",
+                        "Animations",
+                        "Monolith_ray2 _ Pivot"
+                    ],
+                    [
+                        "chara_root",
+                        "Animations",
+                        "chara _ Pivot"
+                    ],
+                    [
+                        "chara_root",
+                        "Materials",
+                        "mt_ray"
+                    ],
+                    [
+                        "chara_root",
+                        "Materials",
+                        "mt_sara"
+                    ],
+                    [
+                        "chara_root",
+                        "Materials",
+                        "sara02"
+                    ],
+                    [
+                        "chara_root",
+                        "Meshes"
+                    ],
+                    [
+                        "chara_root",
+                        "Meshes",
+                        "Monolith_ray1"
+                    ],
+                    [
+                        "chara_root",
+                        "Meshes",
+                        "Monolith_ray2"
+                    ],
+                    [
+                        "chara_root",
+                        "Meshes",
+                        "chara"
+                    ],
+                    [
+                        "chara_root",
+                        "chara_root"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "tex_Monolith_01_a"
+                    ],
+                    [
+                        "tex_Monolith_top_01_a"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1573695730934836:2771",
+                    "1574399008535001:11416"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1573812503892473:43299",
+                    "1573813073812361:46283"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1573695728683059:2054",
+                    "name": "Files\/File3.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1573695728741613:2069",
+                    "name": "Files\/File5.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1573695728803379:2087",
+                    "name": "Files\/File7.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1573695728841621:2103",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1573695728873447:2119",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1573695728905175:2135",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1573695728935495:2151",
+                    "name": "Files\/File11.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1573695728967005:2167",
+                    "name": "Files\/File12.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1573695729001397:2183",
+                    "name": "Files\/File13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1573695729032312:2199",
+                    "name": "Files\/File14.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1573695729069090:2215",
+                    "name": "Files\/File15.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1573695729104503:2231",
+                    "name": "Files\/File16.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1573695729128887:2244",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1573695729286341:2261",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1573695729430932:2278",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1573695729578769:2295",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1573695729881448:2617",
+                    "name": "Monolith_all",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1573696104181523:5979",
+                    "name": "Files\/File28.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1573696191449912:6766",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1573795964065567:38607",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1573812870949173:44380",
+                    "name": "Files\/File33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1573812998829609:45667",
+                    "name": "Files\/File35",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1573812999007361:45711",
+                    "name": "Files\/File37.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1573812999073064:45726",
+                    "name": "Files\/File39.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1574398733547800:1812",
+                    "name": "Files\/File41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1574398733583814:1822",
+                    "name": "Files\/File43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1574398747800424:4029",
+                    "name": "Files\/File83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1574399007643753:10965",
+                    "name": "Files\/File96.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1574399007671111:10981",
+                    "name": "Files\/File97.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1574399007700258:10997",
+                    "name": "Files\/File98.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1574399007711599:11010",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1574399007712257:11052",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1574399007712851:11094",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1574399007721174:11136",
+                    "name": "Files\/File99",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1574399007847477:11153",
+                    "name": "Files\/File101",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1574399007975332:11281",
+                    "name": "chara_root",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1574399439519716:29367",
+                    "name": "Files\/File106.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1574399439567670:29382",
+                    "name": "Files\/File108",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1574399439714101:29402",
+                    "name": "Files\/File110.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1575348540247317:227396",
+                    "name": "Files\/File111",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1573695730934836:2771",
+                "4": "1573695730935219:2791",
+                "5": "1573695730935393:2795",
+                "6": "1573695730936768:2825",
+                "7": "1573695730936949:2829",
+                "8": "1573695730939542:2863",
+                "9": "1573695730939917:2867",
+                "10": "1573695730941931:2901",
+                "11": "1573695730942189:2905",
+                "12": "1573695730944358:2939",
+                "13": "1573695730944608:2943",
+                "14": "1573695730946034:2977",
+                "15": "1573695730946225:2981",
+                "16": "1573695730948104:3015",
+                "17": "1573695730950046:3045",
+                "18": "1573695730952216:3081",
+                "19": "1573696124865081:6288",
+                "20": "1573812503891631:43292",
+                "21": "1574399008535001:11416",
+                "22": "1574399008535600:11434",
+                "23": "1574399008535825:11438",
+                "24": "1574399008536193:11446",
+                "25": "1574399008537871:11480",
+                "26": "1574399008538225:11488",
+                "27": "1574399008539780:11522",
+                "28": "1574399008540159:11530",
+                "29": "1574399439729759:29417"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.mesh"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.mesh"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mesh"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.oprfb"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.fbx"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.oprfb"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.mesh"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.png"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.mesh"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.mesh"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.mesh"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.lsmat"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.lsmat"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.oprfb"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.fbx"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.oprfb"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.jpg"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.jpg"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.lsmat"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.mesh"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "tex_Monolith_01_a.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "tex_Monolith_top_01_a.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Monolith_all.fbx"
+                    },
+                    {
+                        "k": "6",
+                        "v": "..\/AdditionalFiles\/Monolith_all\/Materials0"
+                    },
+                    {
+                        "k": "7",
+                        "v": "..\/AdditionalFiles\/Monolith_all\/Materials0\/mt_monolith01.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "..\/AdditionalFiles\/Monolith_all\/Materials0\/mt_monolith01_top.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "..\/AdditionalFiles\/Monolith_all\/Materials0\/mt_monolith01_top_line.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "..\/AdditionalFiles\/Monolith_all\/Materials0\/mt_Circle.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Color Remap.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Still_002a_BG01_AR.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Diffuse.lsmat"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Ch_Crystal_image.png"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Godray02.png"
+                    },
+                    {
+                        "k": "21",
+                        "v": "sara.png"
+                    },
+                    {
+                        "k": "22",
+                        "v": "chara_root.fbx"
+                    },
+                    {
+                        "k": "23",
+                        "v": "..\/AdditionalFiles\/chara_root\/Materials"
+                    },
+                    {
+                        "k": "24",
+                        "v": "..\/AdditionalFiles\/chara_root\/Materials\/mt_ray.lsmat"
+                    },
+                    {
+                        "k": "25",
+                        "v": "..\/AdditionalFiles\/chara_root\/Materials\/mt_sara.lsmat"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Particles\/Particles Texture.jpg"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Particles\/Particles Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Particles\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "30",
+                        "v": "..\/AdditionalFiles\/chara_root\/Materials\/sara02.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "1488531a94b534de76d147c84d2e40f0"
+                    },
+                    {
+                        "k": "4",
+                        "v": "99409596d6c2e0cdc5b59b396275b078"
+                    },
+                    {
+                        "k": "5",
+                        "v": "cb207839c01b5bb8cbd505fe3b0a7316"
+                    },
+                    {
+                        "k": "7",
+                        "v": "ccd6c457ea270d0e3a86bfac8f3b522d"
+                    },
+                    {
+                        "k": "8",
+                        "v": "c2988e934bb816a071a63f29f678f609"
+                    },
+                    {
+                        "k": "9",
+                        "v": "3e5d3af17c299c10be7ab216a4deab5f"
+                    },
+                    {
+                        "k": "10",
+                        "v": "d82f6eb20d18b0effef8464fe7872b99"
+                    },
+                    {
+                        "k": "11",
+                        "v": "3924da4ece660b56cdcb4f2b7b3fe66c"
+                    },
+                    {
+                        "k": "12",
+                        "v": "6101b829e587775226dcf5ee7d485ba6"
+                    },
+                    {
+                        "k": "13",
+                        "v": "09b85d5f413c704c434311137bd71339"
+                    },
+                    {
+                        "k": "14",
+                        "v": "5bfb29c063c4fe0b860f713e2e438eba"
+                    },
+                    {
+                        "k": "16",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "17",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "18",
+                        "v": "b00c11f621f2c8a6451d67cfe43b3b9e"
+                    },
+                    {
+                        "k": "19",
+                        "v": "43a9689341d895864277dd5cebb508f5"
+                    },
+                    {
+                        "k": "20",
+                        "v": "afc093f07ca3b558aacbd3a604636513"
+                    },
+                    {
+                        "k": "21",
+                        "v": "6d54b053c37873bfdd4d1c753226918e"
+                    },
+                    {
+                        "k": "22",
+                        "v": "6ae33f430f327932e82600d5bf9d938c"
+                    },
+                    {
+                        "k": "24",
+                        "v": "cdebe17d7688c1b3ae372f247d7e4118"
+                    },
+                    {
+                        "k": "25",
+                        "v": "bc2637cef0a636b893603a6b147d5250"
+                    },
+                    {
+                        "k": "27",
+                        "v": "633e6164fd04c2de5d7f0ed88b3dd76d"
+                    },
+                    {
+                        "k": "28",
+                        "v": "c2a84459f7f8a3bccf5af1a63cca7e05"
+                    },
+                    {
+                        "k": "29",
+                        "v": "a5adcbdb568b3556fe3d03137cb05292"
+                    },
+                    {
+                        "k": "30",
+                        "v": "b635f58e4e3d15db9c54721d599ac329"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-12-03T14:10:11",
+                        "name": "Public",
+                        "hash": "173946ee6f37b0433039f89331dfb0ca",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T14:10:11",
+                                "name": "chara_root.fbx",
+                                "hash": "6ae33f430f327932e82600d5bf9d938c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Ch_Crystal_image.png",
+                                "hash": "43a9689341d895864277dd5cebb508f5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Color Remap.lsmat",
+                                "hash": "09b85d5f413c704c434311137bd71339",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Diffuse.lsmat",
+                                "hash": "b00c11f621f2c8a6451d67cfe43b3b9e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:11",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Godray02.png",
+                                "hash": "afc093f07ca3b558aacbd3a604636513",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Matte Shadow.lsmat",
+                                "hash": "6101b829e587775226dcf5ee7d485ba6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Monolith_all.fbx",
+                                "hash": "cb207839c01b5bb8cbd505fe3b0a7316",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-12-03T14:16:05",
+                                "name": "Particles",
+                                "hash": "b7e3441b768b0dd0036990661453e89c",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T14:16:05",
+                                        "name": "Particles Emitter Material.lsmat",
+                                        "hash": "c2a84459f7f8a3bccf5af1a63cca7e05",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:08",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "a5adcbdb568b3556fe3d03137cb05292",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:08",
+                                        "name": "Particles Texture.jpg",
+                                        "hash": "633e6164fd04c2de5d7f0ed88b3dd76d",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Plane.mesh",
+                                "hash": "3924da4ece660b56cdcb4f2b7b3fe66c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "sara.png",
+                                "hash": "6d54b053c37873bfdd4d1c753226918e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "Still_002a_BG01_AR.png",
+                                "hash": "5bfb29c063c4fe0b860f713e2e438eba",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-12-03T13:54:28",
+                                "name": "Textures",
+                                "hash": "b61ede69b1abf91e33aa8e462b6a3de7",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:08",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-03T13:45:08",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "tex_Monolith_01_a.png",
+                                "hash": "1488531a94b534de76d147c84d2e40f0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-03T13:45:08",
+                                "name": "tex_Monolith_top_01_a.png",
+                                "hash": "99409596d6c2e0cdc5b59b396275b078",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "tex_Monolith_01_a",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1573695728683059:2054",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "tex_Monolith_top_01_a",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1573695728741613:2069",
+                        "fileId": "5",
+                        "originalId": "6",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Monolith_all",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "26",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "D:\/AR\/Monolith_all.fbx",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Monolith_01",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1573695728803379:2087",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_02",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "1",
+                                        "uid": "1573695728841621:2103",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_03",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "1",
+                                        "uid": "1573695728873447:2119",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_04",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "1",
+                                        "uid": "1573695728905175:2135",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_05",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "1",
+                                        "uid": "1573695728935495:2151",
+                                        "fileId": "11",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_06",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "1",
+                                        "uid": "1573695728967005:2167",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_Cap",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "1",
+                                        "uid": "1573695729001397:2183",
+                                        "fileId": "13",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_Top",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "1",
+                                        "uid": "1573695729032312:2199",
+                                        "fileId": "14",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_Top 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "1",
+                                        "uid": "1573695729069090:2215",
+                                        "fileId": "15",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_Top_Circle",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "1",
+                                        "uid": "1573695729104503:2231",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials0",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "mt_monolith01",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "uid": "1573695729128887:2244",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "mt_monolith01_top",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "uid": "1573695729286341:2261",
+                                        "fileId": "19",
+                                        "originalId": "20",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "mt_monolith01_top_line",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "uid": "1573695729430932:2278",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "9",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "mt_Circle",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "uid": "1573695729578769:2295",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Monolith_all",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "26",
+                                "dependency": "1",
+                                "uid": "1573695729881448:2617",
+                                "fileId": "25",
+                                "originalId": "27",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1573696104181523:5979",
+                        "fileId": "28",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Matte Shadow",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1573696191449912:6766",
+                        "fileId": "29",
+                        "originalId": "30",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Color Remap",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "uid": "1573795964065567:38607",
+                        "fileId": "31",
+                        "originalId": "32",
+                        "publicId": "13",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Still_002a_BG01_AR",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "uid": "1573812870949173:44380",
+                        "fileId": "33",
+                        "originalId": "34",
+                        "publicId": "14",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "15",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1573812999007361:45711",
+                                "fileId": "37",
+                                "originalId": "38",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "33",
+                                "dependency": "0",
+                                "uid": "1573812999073064:45726",
+                                "fileId": "39",
+                                "originalId": "40",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Diffuse",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "uid": "1573812998829609:45667",
+                        "fileId": "35",
+                        "originalId": "36",
+                        "publicId": "18",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Ch_Crystal_image",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "34",
+                        "dependency": "0",
+                        "uid": "1574398733547800:1812",
+                        "fileId": "41",
+                        "originalId": "42",
+                        "publicId": "19",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Godray02",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "35",
+                        "dependency": "0",
+                        "uid": "1574398733583814:1822",
+                        "fileId": "43",
+                        "originalId": "44",
+                        "publicId": "20",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "sara",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "66",
+                        "dependency": "0",
+                        "uid": "1574398747800424:4029",
+                        "fileId": "83",
+                        "originalId": "84",
+                        "publicId": "21",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "chara_root",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "104",
+                        "originalId": "18446744073709551615",
+                        "publicId": "22",
+                        "source": "D:\/AR\/chara_root.fbx",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Monolith_ray1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "73",
+                                        "dependency": "1",
+                                        "uid": "1574399007643753:10965",
+                                        "fileId": "96",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_ray2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "74",
+                                        "dependency": "1",
+                                        "uid": "1574399007671111:10981",
+                                        "fileId": "97",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "chara",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "75",
+                                        "dependency": "1",
+                                        "uid": "1574399007700258:10997",
+                                        "fileId": "98",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Monolith_ray1 _ Pivot",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "76",
+                                        "dependency": "1",
+                                        "uid": "1574399007711599:11010",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Monolith_ray2 _ Pivot",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "77",
+                                        "dependency": "1",
+                                        "uid": "1574399007712257:11052",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "chara _ Pivot",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "78",
+                                        "dependency": "1",
+                                        "uid": "1574399007712851:11094",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "23",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "mt_ray",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "79",
+                                        "dependency": "0",
+                                        "uid": "1574399007721174:11136",
+                                        "fileId": "99",
+                                        "originalId": "100",
+                                        "publicId": "24",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "mt_sara",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "80",
+                                        "dependency": "0",
+                                        "uid": "1574399007847477:11153",
+                                        "fileId": "101",
+                                        "originalId": "102",
+                                        "publicId": "25",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sara02",
+                                        "type": "15",
+                                        "subtype": "1",
+                                        "resourceId": "85",
+                                        "dependency": "0",
+                                        "uid": "1575348540247317:227396",
+                                        "fileId": "111",
+                                        "originalId": "112",
+                                        "publicId": "30",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "chara_root",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "81",
+                                "dependency": "1",
+                                "uid": "1574399007975332:11281",
+                                "fileId": "103",
+                                "originalId": "105",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "82",
+                                "dependency": "0",
+                                "uid": "1574399439519716:29367",
+                                "fileId": "106",
+                                "originalId": "107",
+                                "publicId": "27",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "uid": "1574399439567670:29382",
+                                "fileId": "108",
+                                "originalId": "109",
+                                "publicId": "28",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "84",
+                                "dependency": "0",
+                                "uid": "1574399439714101:29402",
+                                "fileId": "110",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1574399439567670:29382",
+                        "path_list": [
+                            "Particles",
+                            "Particles Emitter Material"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1573695730934836:2771",
+                        "v": {
+                            "prefab": "1573695729881448:2617",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1573695729695147:2312",
+                                    "v": "1573695730934836:2771"
+                                },
+                                {
+                                    "k": "1573695729696524:2319",
+                                    "v": "1573695730935219:2791"
+                                },
+                                {
+                                    "k": "1573695729696752:2323",
+                                    "v": "1573695730935393:2795"
+                                },
+                                {
+                                    "k": "1573695729697004:2327",
+                                    "v": "1573695730935601:2799"
+                                },
+                                {
+                                    "k": "1573695729866653:2399",
+                                    "v": "1573695730936768:2825"
+                                },
+                                {
+                                    "k": "1573695729867034:2403",
+                                    "v": "1573695730936949:2829"
+                                },
+                                {
+                                    "k": "1573695729867298:2407",
+                                    "v": "1573695730937115:2833"
+                                },
+                                {
+                                    "k": "1573695729868612:2427",
+                                    "v": "1573695730939542:2863"
+                                },
+                                {
+                                    "k": "1573695729869203:2431",
+                                    "v": "1573695730939917:2867"
+                                },
+                                {
+                                    "k": "1573695729869786:2435",
+                                    "v": "1573695730940246:2871"
+                                },
+                                {
+                                    "k": "1573695729871018:2455",
+                                    "v": "1573695730941931:2901"
+                                },
+                                {
+                                    "k": "1573695729871301:2459",
+                                    "v": "1573695730942189:2905"
+                                },
+                                {
+                                    "k": "1573695729871553:2463",
+                                    "v": "1573695730942426:2909"
+                                },
+                                {
+                                    "k": "1573695729872596:2483",
+                                    "v": "1573695730944358:2939"
+                                },
+                                {
+                                    "k": "1573695729872898:2487",
+                                    "v": "1573695730944608:2943"
+                                },
+                                {
+                                    "k": "1573695729873160:2491",
+                                    "v": "1573695730944781:2947"
+                                },
+                                {
+                                    "k": "1573695729874233:2511",
+                                    "v": "1573695730946034:2977"
+                                },
+                                {
+                                    "k": "1573695729874512:2515",
+                                    "v": "1573695730946225:2981"
+                                },
+                                {
+                                    "k": "1573695729874795:2519",
+                                    "v": "1573695730946399:2985"
+                                },
+                                {
+                                    "k": "1573695729875764:2539",
+                                    "v": "1573695730948104:3015"
+                                },
+                                {
+                                    "k": "1573695729876056:2543",
+                                    "v": "1573695730948318:3019"
+                                },
+                                {
+                                    "k": "1573695729877013:2563",
+                                    "v": "1573695730950046:3045"
+                                },
+                                {
+                                    "k": "1573695729877312:2567",
+                                    "v": "1573695730950350:3049"
+                                },
+                                {
+                                    "k": "1573695729878215:2587",
+                                    "v": "1573695730951457:3069"
+                                },
+                                {
+                                    "k": "1573695729878851:2593",
+                                    "v": "1573695730952216:3081"
+                                },
+                                {
+                                    "k": "1573695729879131:2597",
+                                    "v": "1573695730952420:3085"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1574399008535001:11416",
+                        "v": {
+                            "prefab": "1574399007975332:11281",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1574399007969081:11170",
+                                    "v": "1574399008535001:11416"
+                                },
+                                {
+                                    "k": "1574399007969437:11177",
+                                    "v": "1574399008535600:11434"
+                                },
+                                {
+                                    "k": "1574399007969720:11181",
+                                    "v": "1574399008535825:11438"
+                                },
+                                {
+                                    "k": "1574399007969931:11185",
+                                    "v": "1574399008536193:11446"
+                                },
+                                {
+                                    "k": "1574399007970138:11189",
+                                    "v": "1574399008536436:11450"
+                                },
+                                {
+                                    "k": "1574399007971006:11209",
+                                    "v": "1574399008536018:11442"
+                                },
+                                {
+                                    "k": "1574399007971209:11213",
+                                    "v": "1574399008537871:11480"
+                                },
+                                {
+                                    "k": "1574399007971430:11217",
+                                    "v": "1574399008538225:11488"
+                                },
+                                {
+                                    "k": "1574399007971679:11221",
+                                    "v": "1574399008538431:11492"
+                                },
+                                {
+                                    "k": "1574399007972642:11241",
+                                    "v": "1574399008538062:11484"
+                                },
+                                {
+                                    "k": "1574399007972842:11245",
+                                    "v": "1574399008539780:11522"
+                                },
+                                {
+                                    "k": "1574399007973068:11249",
+                                    "v": "1574399008540159:11530"
+                                },
+                                {
+                                    "k": "1574399007973280:11253",
+                                    "v": "1574399008540350:11534"
+                                },
+                                {
+                                    "k": "1574399007974048:11273",
+                                    "v": "1574399008539987:11526"
+                                },
+                                {
+                                    "k": "1574399007974250:11277",
+                                    "v": "1574399008535347:11430"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1573695729881448:2617",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1573695729695147:2312"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all"
+                            ],
+                            "v": "1573695729696524:2319"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_01"
+                            ],
+                            "v": "1573695729696752:2323"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_01",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729697004:2327"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_02 | Pivot"
+                            ],
+                            "v": "1573695729866653:2399"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_02 | Pivot",
+                                "Monolith_02"
+                            ],
+                            "v": "1573695729867034:2403"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_02 | Pivot",
+                                "Monolith_02",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729867298:2407"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_03 | Pivot"
+                            ],
+                            "v": "1573695729868612:2427"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_03 | Pivot",
+                                "Monolith_03"
+                            ],
+                            "v": "1573695729869203:2431"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_03 | Pivot",
+                                "Monolith_03",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729869786:2435"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_04 | Pivot"
+                            ],
+                            "v": "1573695729871018:2455"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_04 | Pivot",
+                                "Monolith_04"
+                            ],
+                            "v": "1573695729871301:2459"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_04 | Pivot",
+                                "Monolith_04",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729871553:2463"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_05 | Pivot"
+                            ],
+                            "v": "1573695729872596:2483"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_05 | Pivot",
+                                "Monolith_05"
+                            ],
+                            "v": "1573695729872898:2487"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_05 | Pivot",
+                                "Monolith_05",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729873160:2491"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_06 | Pivot"
+                            ],
+                            "v": "1573695729874233:2511"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_06 | Pivot",
+                                "Monolith_06"
+                            ],
+                            "v": "1573695729874512:2515"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_06 | Pivot",
+                                "Monolith_06",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729874795:2519"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Cap"
+                            ],
+                            "v": "1573695729875764:2539"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Cap",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729876056:2543"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Top"
+                            ],
+                            "v": "1573695729877013:2563"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Top",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729878215:2587"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Top_Circle"
+                            ],
+                            "v": "1573695729878851:2593"
+                        },
+                        {
+                            "k": [
+                                "Monolith_all",
+                                "Monolith_Top_Circle",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1573695729879131:2597"
+                        }
+                    ]
+                },
+                {
+                    "k": "1574399007975332:11281",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1574399007969081:11170"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1574399007974250:11277"
+                        },
+                        {
+                            "k": [
+                                "chara_root"
+                            ],
+                            "v": "1574399007969437:11177"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray1 | Pivot"
+                            ],
+                            "v": "1574399007969720:11181"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray1 | Pivot",
+                                "Component.Animation"
+                            ],
+                            "v": "1574399007971006:11209"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray1 | Pivot",
+                                "Monolith_ray1"
+                            ],
+                            "v": "1574399007969931:11185"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray1 | Pivot",
+                                "Monolith_ray1",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1574399007970138:11189"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray2 | Pivot"
+                            ],
+                            "v": "1574399007971209:11213"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray2 | Pivot",
+                                "Component.Animation"
+                            ],
+                            "v": "1574399007972642:11241"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray2 | Pivot",
+                                "Monolith_ray2"
+                            ],
+                            "v": "1574399007971430:11217"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "Monolith_ray2 | Pivot",
+                                "Monolith_ray2",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1574399007971679:11221"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "chara | Pivot"
+                            ],
+                            "v": "1574399007972842:11245"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "chara | Pivot",
+                                "Component.Animation"
+                            ],
+                            "v": "1574399007974048:11273"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "chara | Pivot",
+                                "chara"
+                            ],
+                            "v": "1574399007973068:11249"
+                        },
+                        {
+                            "k": [
+                                "chara_root",
+                                "chara | Pivot",
+                                "chara",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1574399007973280:11253"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
